@@ -1,4 +1,4 @@
-FROM tomcat:jre8
+FROM tomcat:10.0.27-jre8-temurin-jammy
 
 MAINTAINER davemeurer@github
 
